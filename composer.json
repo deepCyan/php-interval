@@ -1,0 +1,16 @@
+{
+    "name": "yunqing/interval",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yunqing\\Interval\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangxu",
+            "email": "yunqing@love.com"
+        }
+    ],
+    "require": {}
+}
